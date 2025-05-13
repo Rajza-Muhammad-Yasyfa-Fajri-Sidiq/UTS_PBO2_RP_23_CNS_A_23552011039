@@ -6,7 +6,9 @@ Dosen Pengampu: Muhammad Ikhwan Fathulloh
 
 Profil
 Nama: Rajza Muhammad Yasyfa Fajri Sidiq
+
 NIM: 23552011039
+
 Studi Kasus: Kasir untuk pengelolaan premi dan klaim asuransi
 
 Judul Studi Kasus
@@ -40,8 +42,11 @@ Saat dijalankan, objek Asuransi bisa menunjuk ke subclass yang sesuai (dynamic d
 4. Abstraction (Interface)
 Dibuat interface LayananAsuransi yang mendefinisikan method:
 tambahPolis()
+
 hitungPremi()
+
 tampilkanPolis()
+
 Implementasi detail method dilakukan di kelas AsuransiService.
 
 Demo Proyek
