@@ -45,5 +45,6 @@ tampilkanPolis()
 Implementasi detail method dilakukan di kelas AsuransiService.
 
 Demo Proyek
-Github: https://github.com/Rajza-Muhammad-Yasyfa-Fajri-Sidiq/UTS_PBO2_RP_23_CNS_A_23552011039
+Github: https://github.com/Rajza-Muhammad-Yasyfa-Fajri-Sidiq/UTS_PBO2_RP_23_CNS_A_23552011039  
+
 Youtube: https://youtu.be/wSrN-HCO1Ww
